@@ -1,0 +1,14 @@
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\bin\Debug\net8.0\OOPInheritance.exe
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\bin\Debug\net8.0\OOPInheritance.deps.json
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\bin\Debug\net8.0\OOPInheritance.runtimeconfig.json
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\bin\Debug\net8.0\OOPInheritance.dll
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\bin\Debug\net8.0\OOPInheritance.pdb
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.AssemblyInfo.cs
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.dll
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\refint\OOPInheritance.dll
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.pdb
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\OOPInheritance.genruntimeconfig.cache
+C:\Users\Axel\Desktop\studieinfo_23-25\2025-2027_FullstackNET\2._Programmering_med_C#_och_.NET\2025-09-27_OOPInheritance\OOPInheritance\obj\Debug\net8.0\ref\OOPInheritance.dll
