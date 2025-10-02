@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPInheritance.Lifeforms
 {
-    internal class Life
+    internal abstract class Life
     {
         protected string Binomen { get; set; } = "Homo sapien";
         protected int Age { get; set; } = 1;

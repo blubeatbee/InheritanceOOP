@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\plants\\herbs\\mint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\plants\\herbs\\mint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\homo\\sapiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\homo\\sapiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\ursa\\brownbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\ursa\\brownbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\ursa\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\ursa\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\plants\\herbs\\mint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\plants\\herbs\\mint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\plants\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +43,8 @@
       "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\reptiles\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\reptiles\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\ursa\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\ursa\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\ursa\\brownbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\ursa\\brownbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\mammals\\homo\\sapiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|solutionrelative:oopinheritance\\lifeforms\\animals\\mammals\\homo\\sapiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{994DAEA9-45D3-4DE1-9C74-FE25BBA5A164}|OOPInheritance\\OOPInheritance.csproj|c:\\users\\axel\\desktop\\studieinfo_23-25\\2025-2027_fullstacknet\\2._programmering_med_c#_och_.net\\2025-09-27_oopinheritance\\oopinheritance\\lifeforms\\animals\\reptiles\\chameleon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,17 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Life.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Life.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Life.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Life.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Life.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T11:00:43.179Z",
               "IsPinned": true,
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Animal.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Animal.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Animal.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T17:31:30.64Z",
               "IsPinned": true,
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Plant.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Plants\\Plant.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Plants\\Plant.cs",
@@ -99,38 +99,41 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:59:26.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Mint.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Plants\\Herbs\\Mint.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Plants\\Herbs\\Mint.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Plants\\Herbs\\Mint.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Plants\\Herbs\\Mint.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T12:42:29.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Human.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Human.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Human.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Human.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T11:34:14.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Snake.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Reptiles\\Snake.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Reptiles\\Snake.cs",
@@ -138,8 +141,7 @@
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Reptiles\\Snake.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T23:06:00.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T23:06:00.352Z"
             },
             {
               "$type": "Document",
@@ -151,64 +153,63 @@
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Reptiles\\Chameleon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T10:20:07.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T10:20:07.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Bear.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Bear.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Bear.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Bear.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Bear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T17:52:02.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Sapiens.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Homo\\Sapiens.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Homo\\Sapiens.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Homo\\Sapiens.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Homo\\Sapiens.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T11:50:01.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "BrownBear.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\BrownBear.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\BrownBear.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\BrownBear.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\BrownBear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T16:06:24.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PolarBear.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\PolarBear.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\PolarBear.cs",
               "ToolTip": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\PolarBear.cs",
               "RelativeToolTip": "OOPInheritance\\Lifeforms\\Animals\\Mammals\\Ursa\\PolarBear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T00:55:06.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Axel\\Desktop\\studieinfo_23-25\\2025-2027_FullstackNET\\2._Programmering_med_C#_och_.NET\\2025-09-27_OOPInheritance\\OOPInheritance\\Program.cs",
               "RelativeDocumentMoniker": "OOPInheritance\\Program.cs",
@@ -216,8 +217,7 @@
               "RelativeToolTip": "OOPInheritance\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwDkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T17:30:54.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T17:30:54.244Z"
             }
           ]
         }

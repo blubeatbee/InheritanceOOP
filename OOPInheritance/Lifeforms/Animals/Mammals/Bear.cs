@@ -8,6 +8,7 @@ namespace OOPInheritance.Lifeforms.Animals.Mammals
 {
     internal class Bear : Animal
     {
+        // Property with default value
         protected string Family { get; set; } = "Bear";
 
         protected Bear(string toNomen, string toFamily, string toName, int toSex, int toAge, string toOrigin, double toWeight, string toTameOrWild) : base(toNomen, toName, toSex, toAge, toOrigin, toWeight, toTameOrWild)
@@ -20,18 +21,16 @@ namespace OOPInheritance.Lifeforms.Animals.Mammals
         public void IsHibernating()
         {
             DateTime now = DateTime.Now;
-            if (now.Month >= 10 || now.Month <= 3)
-            {
+            if (now.Month >= 10 || now.Month <= 3) {
                 Console.WriteLine($"{Name} is hibernating.");
 
             }
-            else
-            {
+            else {
                 Family = $"{Name} is not hibernating. Be careful!";
             }
         }
 
-        public void MakeSound()
+        public override void MakeSound()
         {
                 Console.WriteLine($"{Name} made a noise! \"Roar!\"");
         }

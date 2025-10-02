@@ -27,7 +27,7 @@ namespace OOPInheritance.Lifeforms.Animals.Mammals
             Console.WriteLine($"{Name} has {HairC} hair.");
         }
 
-        public void MakeSound()
+        public override void MakeSound()
         {
             Console.WriteLine($"{Name} made a noise! \"Mamma mia!\"");
         }

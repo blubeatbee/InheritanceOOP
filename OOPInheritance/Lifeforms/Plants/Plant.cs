@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPInheritance.Lifeforms.Plants
 {
-    internal class Plant : Life
+    internal abstract class Plant : Life
     {
         // Properties with default values
         protected string Annual { get; set; } = "Annual";
@@ -36,5 +36,8 @@ namespace OOPInheritance.Lifeforms.Plants
             }
         }
 
+        // Abstract method which forces sub class to include their own defined GetSmell() method
+        public abstract void GetSmell();
+        
     }
 }

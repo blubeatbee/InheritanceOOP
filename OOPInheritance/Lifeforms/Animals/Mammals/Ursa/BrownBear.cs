@@ -18,7 +18,8 @@ namespace OOPInheritance.Lifeforms.Animals.Mammals.Ursa
             }
         }
 
-        public void CheckWeight()
+        // Overrides the GetWeight() virtual method in the Animal parent class
+        public override void GetWeight()
         {
             if (Age <= 1)
             {
@@ -63,7 +64,7 @@ namespace OOPInheritance.Lifeforms.Animals.Mammals.Ursa
             }
             else
             {
-                Console.WriteLine($"No data to display. Did you set age or weight correctly?");
+                Console.WriteLine($"No data to display. Did you set age and weight correctly?");
             }
         }
 

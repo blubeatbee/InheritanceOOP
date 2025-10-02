@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPInheritance.Lifeforms.Animals
 {
-    internal class Animal : Life
+    internal abstract class Animal : Life
     {
         // Properties with default values
         protected string Name { get; set; } = "John"; 
@@ -45,22 +45,23 @@ namespace OOPInheritance.Lifeforms.Animals
             }
         }
 
-        public void GetHunger()
-        {
+        // Virtual methods, which can be overriden in any subclasses if so desired
+        public virtual void GetHunger() {
             Console.WriteLine($"{Name} is feeling hungry.");
         }
-        public void GetEat()
-        {
+        public virtual void GetEat() {
             Console.WriteLine($"{Name} is eating.");
         }
-        public void GetSleep()
-        {
+        public virtual void GetSleep() {
             Console.WriteLine($"{Name} is sleeping.");
         }
-        public void GetDeath()
-        {
+        public virtual void GetWeight() {
+            Console.WriteLine($"{Name} has weighs around {Weight} kg.");
+        }
+        public virtual void GetDeath() {
             Console.WriteLine($"{Name} has died. RIP in peace.");
         }
+        public abstract void MakeSound();
 
     }
 }

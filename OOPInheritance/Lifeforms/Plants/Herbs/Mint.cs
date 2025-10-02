@@ -41,7 +41,7 @@ namespace OOPInheritance.Lifeforms.Plants.Herbs
             }
         }
 
-        public void GetSmell()
+        public override void GetSmell()
         {
             Console.WriteLine($"This {Species} of the {Family} family smells {Smell}!");
         }

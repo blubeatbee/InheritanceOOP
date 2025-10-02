@@ -43,7 +43,7 @@ namespace OOPInheritance.Lifeforms.Animals.Reptiles
             }
         }
 
-        public void MakeSound()
+        public override void MakeSound()
         {
             Console.WriteLine($"{Name} made a noise! \"Hiss!\"");
         }
